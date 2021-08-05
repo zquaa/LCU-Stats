@@ -1,6 +1,6 @@
 # LCU-Stats
 
-#### BE AWARE THE APP SUPPORTS FIREFOX ONLY.
+#### The application supports only firefox due to glitches with chrome.
 
 ### This is an app that is supposed to help you play league of legends if you are lazy.
 
