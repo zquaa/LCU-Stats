@@ -30,11 +30,9 @@ BANPICK_PHASE_DATA = '/lol-champ-select/v1/session'
 connector = Connector()
 
 def focusOn():
-    # get list of active windows with name = VALORANT
     list = pyautogui.getWindowsWithTitle('FireFox')
-    # check 
     if len(list) == 0 :
-        for i in range(4): #lol
+        for i in range(4):
             sleep(1)
             print('. ',end='')
         sys.exit()
