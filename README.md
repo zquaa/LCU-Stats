@@ -1,7 +1,7 @@
-# LCU-Stats
-
+# LCU-Stats 
+***
 #### The application supports only Firefox due to glitches with chrome.
-
+#### If you need any support or help you can contact me at my discord: zqua#9285
 ### This is an app that is supposed to help you play league of legends if you are lazy.
 
 #### You can download LCU Stats an exe [here](https://github.com/zquaa/LCU-Stats/releases)
