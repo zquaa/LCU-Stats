@@ -4,7 +4,7 @@
 #### If you need any support or help you can contact me at my discord: zqua#9285
 ### This is an app that is supposed to help you play league of legends if you are lazy.
 
-#### You can download LCU Stats an exe [here](https://github.com/zquaa/LCU-Stats/releases)
+#### You can download LCU Stats as exe [here](https://github.com/zquaa/LCU-Stats/releases).
 
 ### This program has these features and are activated on start of the program.
 * Auto-Accept
