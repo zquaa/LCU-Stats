@@ -1,8 +1,10 @@
 # LCU-Stats
 
+#### BE AWARE THE APP SUPPORTS FIREFOX ONLY.
+
 ### This is an app that is supposed to help you play league of legends if you are lazy.
 
-* You can download LCU Stats an exe [here](https://github.com/zquaa/LCU-Stats/releases)
+#### You can download LCU Stats an exe [here](https://github.com/zquaa/LCU-Stats/releases)
 
 
 ### This program has these features and are activated on start of the program.
