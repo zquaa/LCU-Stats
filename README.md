@@ -1,6 +1,7 @@
 # LCU-Stats 
 ***
-#### The application supports only Firefox due to glitches with chrome.
+#### If you want to switch it to focus onto Google Chrome or any browser
+list = pyautogui.getWindowsWithTitle('FireFox')
 #### If you need any support or help you can contact me at my discord: zqua#9285
 ### This is an app that is supposed to help you play league of legends if you are lazy.
 
