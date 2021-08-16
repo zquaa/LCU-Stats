@@ -37,9 +37,9 @@ def focusOn():
             print('. ',end='')
         sys.exit()
     else: 
-        valorant = list[0]
-        if valorant.isMinimized == True:
-            valorant.restore() #run
+        firefox = list[0]
+        if firefox.isMinimized == True:
+            firefox.restore() #run
             print("Focused onto FireFox.")
         else:
             pass
