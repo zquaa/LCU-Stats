@@ -37,10 +37,10 @@ def focusOn():
             print('. ',end='')
         sys.exit()
     else: 
-        firefox = list[0]
-        if firefox.isMinimized == True:
-            firefox.restore() #run
-            print("Focused onto FireFox.")
+        browser = list[0]
+        if browser.isMinimized == True:
+            browser.restore() #run
+            print("Focused onto your Browser.")
         else:
             pass
 
