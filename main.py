@@ -1,17 +1,17 @@
-from colorama.ansi import Fore
-from lcu_driver import Connector
-import requests
-import re, json
-import webbrowser
-import colorama
-import pyautogui
-import sys
-from time import sleep
-from os import system
-titlea = "LCU API ABUSER"
+ colorama.ansi  Fore
+ lcu_driver  Connector
+ requests
+ re, json
+ webbrowser
+ colorama
+ pyautogui
+ sys
+ time  sleep
+ os  system
+title  "LCU API ABUSER"
 system("title "+titlea)
 
-init = True
+init  ;
 colorama.init()
 
 
